@@ -1,5 +1,11 @@
 Provider: AWS
-Instances IP's: 172.31.45.233, 172.31.44.156, 172.31.34.254, 172.31.35.119, 172.31.46.220
+Instances IP's and DNS: 
+- 172.31.45.233 ec2-52-38-107-228.us-west-2.compute.amazonaws.com
+- 172.31.44.156 ec2-52-41-11-49.us-west-2.compute.amazonaws.com
+- 172.31.34.254 ec2-52-32-147-140.us-west-2.compute.amazonaws.com
+- 172.31.35.119 ec2-52-38-233-33.us-west-2.compute.amazonaws.com
+- 172.31.46.220 ec2-35-162-4-247.us-west-2.compute.amazonaws.com
+
 SO: Centos 7
 Linux Capacity for 1st node: /dev/xvda1 (40 GB), /dev/xvdb (40 GB)  
 Output from Yum Repolist Enabled:
